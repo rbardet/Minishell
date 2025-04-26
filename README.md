@@ -6,3 +6,6 @@ you need to have a proper env that handle the actual state of your shell
 
 the goal of the bonus is to handle wildcard (*) and handle || and && 
 you also have to implement parenthesis to check for priority
+
+project done with throbert from 42 le havre
+![image](https://github.com/user-attachments/assets/84cb8d7a-152f-4027-bed8-0c4d7fa3a2b2)
